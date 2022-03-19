@@ -1,0 +1,26 @@
+body{
+    align-content: center;
+}
+.wrapper{
+    margin-left: 20%;
+    margin-top: 5%;
+    border-style: solid;
+    width: 700px;
+    text-align: center;
+    display: flex;
+}
+.imgxd{
+    margin-top: 10px;
+    margin-left: 10px;
+    max-width: 80px;
+}
+.higer{
+    margin-left: 100px;
+    font-size: 15px;
+}
+.higer2{
+position:absolute;
+}
+.Space{
+    margin-left: 60px;
+}
